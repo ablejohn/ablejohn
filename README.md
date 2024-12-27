@@ -9,7 +9,8 @@ I'm Able john, a passionate Full Stack Developer, Data Analyst, and UI/UX Design
 - 💬 Ask me about anything related to Full Stack Development, Data Analysis, UI/UX Design, or any tech-related topic you're curious about.
 - 📫 How to reach me: johnabe410@gmail.com & +2349078379864 on Whatsapp.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I've successfully contributed to and completed 9+ projects spanning various fields, from e-commerce solutions to data-driven applications.
+- ⚡ Fun fact: I've successfully contributed to and completed 15+
+ projects spanning various fields, from e-commerce solutions to data-driven applications.
 
 Feel free to explore my repositories, where you'll find a mix of Full Stack projects, Data Analysis scripts, and UI/UX design concepts. Don't hesitate to reach out if you have any questions or if there's anything I can help you with!
 
