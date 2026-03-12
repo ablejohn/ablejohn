@@ -18,7 +18,7 @@ const john = {
 
 ---
 
-## What I've shipped
+## Latest shipped
 
 **[PayFlow](https://github.com/ablejohn/PayFlow)** — Multi-tenant SaaS invoice & payment platform
 > Node.js · Express · PostgreSQL · React · Docker · AWS S3
