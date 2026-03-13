@@ -28,7 +28,7 @@ const john = {
 > Java · Spring Boot · MongoDB · Next.js · Docker
 > Vendor/buyer roles, product catalog with full-text search, order state machine, real-time cart, checkout flow
 
-**Taskly** *(coming soon)* — Real-time team task management
+**[Flowspace](https://github.com/ablejohn/flowspace)** — Real-time team task management
 > Node.js · PostgreSQL · WebSockets · React
 > Live collaboration, task state machine, team workspaces
 
