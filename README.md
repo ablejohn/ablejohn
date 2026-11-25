@@ -4,7 +4,7 @@
 
 I build and maintain software systems that solve real-world problems — from institutional ERP platforms and financial workflows to education technology, marketplaces and mobile applications.
 
-With **5 years of backend engineering experience**, I work across API development, database design, system architecture, integrations, testing and deployment. I care about building software that is reliable, maintainable and ready for real users.
+With **5 years + of backend engineering experience**, I work across API development, database design, system architecture, integrations, testing and deployment. I care about building software that is reliable, maintainable and ready for real users.
 
 ```javascript
 const john = {
